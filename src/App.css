@@ -23,7 +23,7 @@ html{
 
 .input_form{
  display: flex;
- justify-content: space-around;
+ justify-content: center;
 
 }
 input{
@@ -46,7 +46,7 @@ label{
   font-weight: 600;
   line-height: 1.4rem;
   margin-top: 2rem;
-  width: 40%;
+  width: 30%;
   padding: .07rem;
   text-align:center;
 }
